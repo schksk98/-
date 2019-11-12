@@ -1,11 +1,4 @@
-11111111
-devdevdev111111111
-222222
-333333333333
-444444
-AAAAAAAAAAAfinalxxxxxxxxxxxxxx
-AAAAAAAAAAAfinalccccccc
-<<<<<<< HEAD
+
 赵鹏翔大傻子
 ------------------------
 我就是我，帅到爆炸的烟火
@@ -31,5 +24,3 @@ AAAAAAAAAAAfinalccccccc
 张妍宁大傻子~~~~@@@
 ---------------------
 本群最帅男群员认证
-
->>>>>>> 64b3a9993a51f7ff50b6de64d9fa06956b93a563
